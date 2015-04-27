@@ -1,0 +1,5 @@
+127.0.0.1 - - [23/Mar/2015:12:29:19 +0530] "GET / HTTP/1.1" 404 951
+127.0.0.1 - - [23/Mar/2015:12:29:38 +0530] "GET /CrunchifySpringMVCTutorial/ HTTP/1.1" 200 474
+127.0.0.1 - - [23/Mar/2015:12:29:52 +0530] "GET /CrunchifySpringMVCTutorial/welcome.html HTTP/1.1" 404 1051
+127.0.0.1 - - [23/Mar/2015:12:30:46 +0530] "GET /CrunchifySpringMVCTutorial/ HTTP/1.1" 200 474
+127.0.0.1 - - [23/Mar/2015:12:30:48 +0530] "GET /CrunchifySpringMVCTutorial/welcome.html HTTP/1.1" 200 854

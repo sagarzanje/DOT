@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;CrunchifySpringMVCTutorial&apos; to &apos;DOT&apos;" description="Rename resource &apos;CrunchifySpringMVCTutorial&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/CrunchifySpringMVCTutorial" name="DOT" stamp="1430110151780" updateReferences="true"/>
+</session>
